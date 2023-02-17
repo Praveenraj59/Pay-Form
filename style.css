@@ -1,3 +1,9 @@
 body{
     background-image: url(./images/bg-main-desktop.png);
+    background-repeat: no-repeat;
+    
+}
+form{
+    margin-left: 55%;
+    margin-top: 15%;
 }
