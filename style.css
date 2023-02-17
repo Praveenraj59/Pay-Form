@@ -1,7 +1,19 @@
 body{
-    background-image: url(./images/bg-main-desktop.png);
+    background-image: url(/images/bg-main-desktop.png);
     background-repeat: no-repeat;
+    background-size: 26.15%;
     
+}
+.img1{
+    height: 200px;
+    margin-top: 10%;
+    margin-left: 8.5%;
+}
+.img2{
+    height: 200px;
+    margin-top: 2%;
+    margin-left: 13.5%;
+    position: absolute;
 }
 form{
     margin-left: 55%;
